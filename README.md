@@ -7,9 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 💬 Ask me about **Frontend and Backend**
+
+- 📫 How to reach me **niranjansinghrathore43@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niranjan-singh-rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-singh-rathore" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/niranjan-singh-rathore-b0b659224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjan-singh-rathore-b0b659224" height="30" width="40" /></a>
+<a href="https://instagram.com/niranjan_rathore_shikhrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_rathore_shikhrani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjansingh-ghub&show_icons=true&locale=en" alt="niranjansingh-ghub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjansingh-ghub&" alt="niranjansingh-ghub" /></p>
-
